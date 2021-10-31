@@ -1,0 +1,41 @@
+@media (max-width: 650px) {
+    .wrapper {
+      height: 100%;
+    }
+    .container {
+      margin-top: 75px;
+      margin-bottom: 75px;
+      width: 300px;
+    }
+    .body {
+      display: block;
+    }
+    header {
+      padding: 25px;
+    }
+    .title {
+      font-size: 18px;
+    }
+    .day {
+      font-size: 16px;
+    }
+    .header__text {
+      line-height: 20px;
+    }
+  
+    .card__left {
+      padding: 25px;
+      max-width: 100%;
+    }
+    .card__right {
+      display: inline-flexbox;
+      font-size: 13px;
+  
+      padding: 25px;
+      max-width: 100%;
+    }
+    .card__right__text {
+      line-height: 20px;
+    }
+  }
+  
